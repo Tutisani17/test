@@ -1,0 +1,19 @@
+h1{color: rgb(8, 98, 177);}
+h2{color:red;}
+h3{color: blueviolet;}
+
+ul li {
+    color: darkgreen;
+}
+img{
+    height: 500px;
+}
+body {
+    background-color: black;
+    background-image: url(./img/1653991715_46-celes-club-p-oboi-na-rabochii-stol-zakat-krasivie-53.jpg);
+}
+.first{
+    color: blue;
+}
+.two{color: aliceblue;}
+p{color: aliceblue;}
